@@ -1,0 +1,49 @@
+{
+  "sessionVersion": 1,
+
+  "users": [
+    {
+      "username": "Admin",
+      "role": "admin",
+      "avatar": "",
+      "qr": "admin-qr-928374",
+      "status": "online"
+    },
+    {
+      "username": "Siswa1",
+      "role": "member",
+      "avatar": "",
+      "qr": "siswa1-qr-12833",
+      "status": "online"
+    },
+    {
+      "username": "Siswa2",
+      "role": "member",
+      "avatar": "",
+      "qr": "siswa2-qr-55293",
+      "status": "online"
+    }
+  ],
+
+  "news": [
+    {
+      "id": 1,
+      "title": "Struktur Organisasi Baru",
+      "content": "Struktur organisasi kelas VII U-5 telah diperbarui.",
+      "date": "2025-01-01"
+    }
+  ],
+
+  "photos": [],
+
+  "org": [
+    {
+      "name": "Ketua Kelas",
+      "people": ["Siswa1"]
+    },
+    {
+      "name": "Wakil Ketua",
+      "people": ["Siswa2"]
+    }
+  ]
+}
